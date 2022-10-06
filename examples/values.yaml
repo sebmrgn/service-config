@@ -1,4 +1,2 @@
-name: "podinfo2"
-address: "https://kubernetes.default.svc"
 values: |
   replicaCount: 3
